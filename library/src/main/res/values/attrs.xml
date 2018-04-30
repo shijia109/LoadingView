@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BallLoadingView">
+        <attr name="ballRadius" format="dimension" />
+        <attr name="rotateRadius" format="dimension" />
+        <attr name="maxScaleLength" format="dimension" />
+        <attr name="duration" format="integer" />
+        <attr name="startAngle" format="integer" />
+        <attr name="color1" format="color" />
+        <attr name="color2" format="color" />
+    </declare-styleable>
+</resources>
